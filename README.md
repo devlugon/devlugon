@@ -1,7 +1,7 @@
 ### E ai Galera! Eu sou Lucas Gonçalves 👋
 Sou estudante na área de TI e estou buscando alocação no mercado de trabalho como desenvolvedor de software :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlugon&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlugon&show_icons=true&theme=transparent)
 
 ### Skills:
 
